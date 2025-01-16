@@ -1,5 +1,5 @@
 
-# Humaan
+#Digital Product Agency — Humaan
 
 Welcome to **Humaan**, where we design, build, and ship world-class digital products tailored to the needs of forward-thinking brands. This project exemplifies our approach to crafting sleek, high-performance websites using advanced frontend technologies for seamless user experiences.
 
